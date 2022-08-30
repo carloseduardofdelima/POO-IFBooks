@@ -1,0 +1,1 @@
+run = "set -e; csc Program.cs Aluno.cs Emprestimo.cs Exemplar.cs Livro.cs NAluno.cs NEmprestimo.cs NExemplar.cs NLivro.cs NSecao.cs NUsuario.cs Secao.cs Usuario.cs; mono Program.exe"
